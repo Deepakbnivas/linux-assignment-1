@@ -1,6 +1,10 @@
-# Linux Assignment 1
+# AI-Music-Collaboration
 
 Explore the synergy between Artificial Intelligence (AI) and the music industry. This repository showcases key concepts, challenges, and solutions in the collaborative realm of AI and music.
+
+## Presentation
+
+To access the presentation slides, please [click here](https://www.canva.com/design/DAFz9dcnlHg/iVV4JcHrfNuWRwzSytR2PA/edit?utm_content=DAFz9dcnlHg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Contents
 
