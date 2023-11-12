@@ -1,4 +1,4 @@
-# AI-Music-Collaboration
+# Linux Assignment 1
 
 Explore the synergy between Artificial Intelligence (AI) and the music industry. This repository showcases key concepts, challenges, and solutions in the collaborative realm of AI and music.
 
